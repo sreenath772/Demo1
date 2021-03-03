@@ -7,3 +7,6 @@
  remote repository
 pull the content
 fetch the content
+git soft mixed head
+git log
+
